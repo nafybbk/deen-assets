@@ -1,0 +1,27 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "id": "tajweed13",
+   "kind": "mushaf",
+   "release": "tajweed13-v1",
+   "title": "Al Quran 13 Lines Tajweedi",
+   "publisher": "Maktaba Yasin",
+   "source": "https://archive.org/details/AlQuran13LinesTajweedi",
+   "license": "CC BY-NC-ND 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+   "layout": "qul-indopak-13-taj-company",
+   "pages": 847,
+   "pageFile": "pNNN.jpg",
+   "intro": 34,
+   "introFile": "iNN.jpg",
+   "pageSize": [
+    1065,
+    1425
+   ],
+   "bytes": 192663710,
+   "introBytes": 6604464,
+   "base": "https://github.com/nafybbk/deen-assets/releases/download/tajweed13-v1/"
+  }
+ ]
+}
