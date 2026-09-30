@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "title": "Test Entry - delete me",
+      "creator": "test",
+      "volumes": [
+        {
+          "url": "https://example.com",
+          "detail": "test"
+        }
+      ],
+      "id": "1790774140264",
+      "addedAt": "2026-09-30T13:15:40.264Z"
+    }
+  ]
+}
