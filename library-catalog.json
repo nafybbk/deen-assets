@@ -270,6 +270,22 @@
       ],
       "id": "1790836590916",
       "addedAt": "2026-10-01T06:36:30.916Z"
+    },
+    {
+      "title": "Tareekh-e-Hind Urdu History",
+      "titleUrdu": "تاریخِ ہند اردو ہسٹری",
+      "creator": " Gurukul Kangri Haridwar Collection",
+      "coverUrl": "https://archive.org/services/img/pobe_tareekh-e-hind-urdu-history",
+      "category": "History",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/pobe_tareekh-e-hind-urdu-history/Tareekh-e-Hind%20Urdu%20History.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790837159034",
+      "addedAt": "2026-10-01T06:45:59.034Z"
     }
   ]
 }
