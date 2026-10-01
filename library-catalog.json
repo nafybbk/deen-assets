@@ -286,6 +286,22 @@
       ],
       "id": "1790837159034",
       "addedAt": "2026-10-01T06:45:59.034Z"
+    },
+    {
+      "title": "zikr-e-qarbala",
+      "titleUrdu": "ذکرِ کربلا",
+      "creator": "Naseer Ansari Barabankvi",
+      "coverUrl": "https://adab.bizcorindia.com/assets/img/zikr-e-qarbala-cover.jpg",
+      "category": "Poetry",
+      "volumes": [
+        {
+          "url": "https://adab.bizcorindia.com/assets/pdf/zikr-e-qarbala.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790837371601",
+      "addedAt": "2026-10-01T06:49:31.601Z"
     }
   ]
 }
