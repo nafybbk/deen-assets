@@ -288,6 +288,22 @@
       ],
       "id": "1790837371601",
       "addedAt": "2026-10-01T06:49:31.601Z"
+    },
+    {
+      "title": "Aina-E-Fikr",
+      "titleUrdu": "آئینۂ فکر ",
+      "creator": "Naseer Ansari Barabankvi",
+      "coverUrl": "https://adab.bizcorindia.com/assets/img/aina-e-fikr-cover.jpg",
+      "category": "Poetry",
+      "volumes": [
+        {
+          "url": "https://adab.bizcorindia.com/assets/pdf/aina-e-fikr.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790837508423",
+      "addedAt": "2026-10-01T06:51:48.423Z"
     }
   ]
 }
