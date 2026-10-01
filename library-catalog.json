@@ -320,6 +320,22 @@
       ],
       "id": "1790838221963",
       "addedAt": "2026-10-01T07:03:41.963Z"
+    },
+    {
+      "title": "Siyar-ul-Auliya (Urdu translation) History of Chishti silsila",
+      "titleUrdu": "سیر الاولیاء (اردو ترجمہ) چشتیہ سلسلہ کی تاریخ",
+      "creator": "booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/Siyar-ul-auliyaurduTranslationHistoryOfChishtiSilsila",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/Siyar-ul-auliyaurduTranslationHistoryOfChishtiSilsila/00360_SIYAR-UL-AULIA-ur.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790838461149",
+      "addedAt": "2026-10-01T07:07:41.149Z"
     }
   ]
 }
