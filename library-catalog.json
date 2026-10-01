@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "title": "Test Entry - delete me",
-      "creator": "test",
-      "volumes": [
-        {
-          "url": "https://example.com",
-          "detail": "test"
-        }
-      ],
-      "id": "1790774140264",
-      "addedAt": "2026-09-30T13:15:40.264Z"
-    },
-    {
       "title": "Tareekh-e-Tabri Complete Urdu",
       "creator": "",
       "volumes": [
@@ -105,7 +93,6 @@
       "category": "Poetry",
       "volumes": [
         {
-          "url": "https://adab.bizcorindia.com/assets/img/aina-e-fikr-cover.jpg",
           "url": "https://adab.bizcorindia.com/assets/pdf/aina-e-fikr.pdf",
           "detail": ""
         }
