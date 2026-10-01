@@ -451,6 +451,32 @@
       ],
       "id": "1790857376857",
       "addedAt": "2026-10-01T12:22:56.857Z"
+    },
+    {
+      "title": "Masnavi Maulana Rumi",
+      "titleUrdu": "مثنوی مولانا روم",
+      "creator": "booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/masnavi-urdu-3",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/MasnaviUrdu/Masnavi-Urdu-1.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/MasnaviUrdu/Masnavi-Urdu-2.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/MasnaviUrdu/Masnavi-Urdu-3.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790860350081",
+      "addedAt": "2026-10-01T13:12:30.081Z"
     }
   ]
 }
