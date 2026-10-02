@@ -549,6 +549,32 @@
       ],
       "id": "1790919128736",
       "addedAt": "2026-10-02T05:32:08.736Z"
+    },
+    {
+      "title": "Saheeh Bukhari - Urdu Translation - Complete Volumes",
+      "titleUrdu": "صحیح بخاری - اردو ترجمہ - مکمل جلدیں",
+      "creator": "booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/saheehbukhariurdutranslationvolume1_202001",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/saheehbukhariurdutranslationvolume1_202001/Saheeh%20Bukhari%20-%20Urdu%20Translation%20-%20Volume%201.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/saheehbukhariurdutranslationvolume1_202001/Saheeh%20Bukhari%20-%20Urdu%20Translation%20-%20Volume%202.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/saheehbukhariurdutranslationvolume1_202001/Saheeh%20Bukhari%20-%20Urdu%20Translation%20-%20Volume%203.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790919362182",
+      "addedAt": "2026-10-02T05:36:02.182Z"
     }
   ]
 }
