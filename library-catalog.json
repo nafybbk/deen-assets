@@ -738,6 +738,22 @@
       ],
       "id": "1790928843378",
       "addedAt": "2026-10-02T08:14:03.378Z"
+    },
+    {
+      "title": "Naamwar Musalman Science-dan",
+      "titleUrdu": "نامور مسلمان سائنسدان",
+      "creator": " booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/20250822_20250822_1155",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/20250822_20250822_1155/%D9%86%D8%A7%D9%85%D9%88%D8%B1%20%D9%85%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%B3%D8%A7%D8%A6%D9%86%D8%B3%D8%AF%D8%A7%D9%86.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790928943973",
+      "addedAt": "2026-10-02T08:15:43.973Z"
     }
   ]
 }
