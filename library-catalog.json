@@ -771,6 +771,22 @@
       ],
       "id": "1790929103430",
       "addedAt": "2026-10-02T08:18:23.430Z"
+    },
+    {
+      "title": "Rasaail Min al-Quran - Urdu Adham Sharqawi",
+      "titleUrdu": "رسائل من القرآن -اردو ادھم شرقاوی",
+      "creator": "opensource",
+      "coverUrl": "https://archive.org/services/img/rasail-minal-quran-urdu",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/rasail-minal-quran-urdu/%D8%B1%D8%B3%D8%A7%D9%8A%D9%94%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%93%D9%86%20%20Rasail%20Minal%20Quran%20Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790942262331",
+      "addedAt": "2026-10-02T11:57:42.331Z"
     }
   ]
 }
