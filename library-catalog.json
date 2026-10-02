@@ -754,6 +754,22 @@
       ],
       "id": "1790928943973",
       "addedAt": "2026-10-02T08:15:43.973Z"
+    },
+    {
+      "title": "Atlas-e-Khat – Tahqeeq dar Khutoot-e-Islami",
+      "titleUrdu": "اطلس خط – تحقیق در خطوط اسلامی",
+      "creator": "Umair Mirza",
+      "coverUrl": "https://archive.org/services/img/20260311_20260311_0913",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/20260311_20260311_0913/%D8%AA%D8%AD%D9%82%DB%8C%D9%82%20%D8%AF%D8%B1%20%D8%AE%D8%B7%D9%88%D8%B7%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790929103430",
+      "addedAt": "2026-10-02T08:18:23.430Z"
     }
   ]
 }
