@@ -1,0 +1,789 @@
+{
+  "entries": [
+    {
+      "title": "Tareekh-e-Tabri Complete Urdu",
+      "titleUrdu": "تاریخ طبری",
+      "creator": "",
+      "volumes": [
+        {
+          "url": "https://archive.org/details/tarikhetabri5/Tarikh%20e%20Tabri%201",
+          "detail": "30.2 MB",
+          "pdfUrl": "https://archive.org/download/tarikhetabri5/Tarikh%20e%20Tabri%201.pdf",
+          "isPdf": true,
+          "fileSizeMB": 30.2,
+          "license": "NOT FOUND",
+          "label": "جلد ۱ — Vol. 1",
+          "coverUrl": "https://archive.org/services/img/tarikhetabri5"
+        },
+        {
+          "url": "https://archive.org/details/tarikhetabri5/Tarikh%20e%20Tabri%202",
+          "detail": "31.8 MB",
+          "pdfUrl": "https://archive.org/download/tarikhetabri5/Tarikh%20e%20Tabri%202.pdf",
+          "isPdf": true,
+          "fileSizeMB": 31.8,
+          "license": "NOT FOUND",
+          "label": "جلد ۲ — Vol. 2",
+          "coverUrl": "https://archive.org/services/img/tarikhetabri5"
+        },
+        {
+          "url": "https://archive.org/details/tarikhetabri5/Tarikh%20e%20Tabri%203",
+          "detail": "29.3 MB",
+          "pdfUrl": "https://archive.org/download/tarikhetabri5/Tarikh%20e%20Tabri%203.pdf",
+          "isPdf": true,
+          "fileSizeMB": 29.3,
+          "license": "NOT FOUND",
+          "label": "جلد ۳ — Vol. 3",
+          "coverUrl": "https://archive.org/services/img/tarikhetabri5"
+        },
+        {
+          "url": "https://archive.org/details/tarikhetabri5/Tarikh%20e%20Tabri%204",
+          "detail": "32.4 MB",
+          "pdfUrl": "https://archive.org/download/tarikhetabri5/Tarikh%20e%20Tabri%204.pdf",
+          "isPdf": true,
+          "fileSizeMB": 32.4,
+          "license": "NOT FOUND",
+          "label": "جلد ۴ — Vol. 4",
+          "coverUrl": "https://archive.org/services/img/tarikhetabri5"
+        },
+        {
+          "url": "https://archive.org/details/tarikhetabri5/Tarikh%20e%20Tabri%205",
+          "detail": "32.8 MB",
+          "pdfUrl": "https://archive.org/download/tarikhetabri5/Tarikh%20e%20Tabri%205.pdf",
+          "isPdf": true,
+          "fileSizeMB": 32.8,
+          "license": "NOT FOUND",
+          "label": "جلد ۵ — Vol. 5",
+          "coverUrl": "https://archive.org/services/img/tarikhetabri5"
+        },
+        {
+          "url": "https://archive.org/details/tarikhetabri5/Tarikh%20e%20Tabri%206",
+          "detail": "19.3 MB",
+          "pdfUrl": "https://archive.org/download/tarikhetabri5/Tarikh%20e%20Tabri%206.pdf",
+          "isPdf": true,
+          "fileSizeMB": 19.3,
+          "license": "NOT FOUND",
+          "label": "جلد ۶ — Vol. 6",
+          "coverUrl": "https://archive.org/services/img/tarikhetabri5"
+        },
+        {
+          "url": "https://archive.org/details/tarikhetabri5/Tarikh%20e%20Tabri%207",
+          "detail": "20.9 MB",
+          "pdfUrl": "https://archive.org/download/tarikhetabri5/Tarikh%20e%20Tabri%207.pdf",
+          "isPdf": true,
+          "fileSizeMB": 20.9,
+          "license": "NOT FOUND",
+          "label": "جلد ۷ — Vol. 7",
+          "coverUrl": "https://archive.org/services/img/tarikhetabri5"
+        }
+      ],
+      "id": "1790774366399",
+      "addedAt": "2026-09-30T13:19:26.399Z",
+      "coverUrl": "https://archive.org/services/img/tarikhetabri5"
+    },
+    {
+      "title": "Deewan E Naseer",
+      "titleUrdu": "دیوانِ نصیر",
+      "creator": "Naseer Ansari Barabankvi",
+      "coverUrl": "https://adab.bizcorindia.com/assets/img/diwan-e-naseer-cover.jpg",
+      "category": "Poetry",
+      "volumes": [
+        {
+          "url": "https://adab.bizcorindia.com/assets/pdf/diwan-e-naseer.pdf",
+          "detail": ""
+        }
+      ],
+      "id": "1790814632098",
+      "addedAt": "2026-10-01T00:30:32.098Z"
+    },
+    {
+      "title": "Tareekh-E-Ibn-Kaseer",
+      "titleUrdu": "تاریخ ابن کثیر",
+      "creator": "Nafees Academy Urdu Bazar Karachi",
+      "coverUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild1",
+          "detail": "19.9 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild1.pdf",
+          "isPdf": true,
+          "fileSizeMB": 19.9,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild2",
+          "detail": "14.5 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild2.pdf",
+          "isPdf": true,
+          "fileSizeMB": 14.5,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild3",
+          "detail": "8.3 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild3.pdf",
+          "isPdf": true,
+          "fileSizeMB": 8.3,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild4",
+          "detail": "6.9 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild4.pdf",
+          "isPdf": true,
+          "fileSizeMB": 6.9,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild5",
+          "detail": "12.5 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild5.pdf",
+          "isPdf": true,
+          "fileSizeMB": 12.5,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild6",
+          "detail": "12.3 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild6.pdf",
+          "isPdf": true,
+          "fileSizeMB": 12.3,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild7",
+          "detail": "12 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild7.pdf",
+          "isPdf": true,
+          "fileSizeMB": 12,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild8",
+          "detail": "10.5 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild8.pdf",
+          "isPdf": true,
+          "fileSizeMB": 10.5,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild9",
+          "detail": "8.5 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild9.pdf",
+          "isPdf": true,
+          "fileSizeMB": 8.5,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild10",
+          "detail": "11.5 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild10.pdf",
+          "isPdf": true,
+          "fileSizeMB": 11.5,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild11",
+          "detail": "13.5 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild11.pdf",
+          "isPdf": true,
+          "fileSizeMB": 13.5,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild12",
+          "detail": "10.9 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild12.pdf",
+          "isPdf": true,
+          "fileSizeMB": 10.9,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild13",
+          "detail": "10.5 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild13.pdf",
+          "isPdf": true,
+          "fileSizeMB": 10.5,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild14",
+          "detail": "9.7 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild14.pdf",
+          "isPdf": true,
+          "fileSizeMB": 9.7,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild15",
+          "detail": "6.9 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild15.pdf",
+          "isPdf": true,
+          "fileSizeMB": 6.9,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        },
+        {
+          "url": "https://archive.org/details/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild16",
+          "detail": "6.3 MB",
+          "pdfUrl": "https://archive.org/download/TareekhEbnEKaseerJild1_201903/Tareekh%20Ebn%20e%20Kaseer-Jild16.pdf",
+          "isPdf": true,
+          "fileSizeMB": 6.3,
+          "thumbUrl": "https://archive.org/services/img/TareekhEbnEKaseerJild1_201903",
+          "license": "NOT FOUND",
+          "fetchedTitle": "Tareekh Ebn E Kaseer Complete 16 volume "
+        }
+      ],
+      "id": "1790836590916",
+      "addedAt": "2026-10-01T06:36:30.916Z"
+    },
+    {
+      "title": "Tareekh-e-Hind Urdu History",
+      "titleUrdu": "تاریخِ ہند اردو ہسٹری",
+      "creator": " Gurukul Kangri Haridwar Collection",
+      "coverUrl": "https://archive.org/services/img/pobe_tareekh-e-hind-urdu-history",
+      "category": "History",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/pobe_tareekh-e-hind-urdu-history/Tareekh-e-Hind%20Urdu%20History.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790837159034",
+      "addedAt": "2026-10-01T06:45:59.034Z"
+    },
+    {
+      "title": "zikr-e-qarbala",
+      "titleUrdu": "ذکرِ کربلا",
+      "creator": "Naseer Ansari Barabankvi",
+      "coverUrl": "https://adab.bizcorindia.com/assets/img/zikr-e-qarbala-cover.jpg",
+      "category": "Poetry",
+      "volumes": [
+        {
+          "url": "https://adab.bizcorindia.com/assets/pdf/zikr-e-qarbala.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790837371601",
+      "addedAt": "2026-10-01T06:49:31.601Z"
+    },
+    {
+      "title": "Aina-E-Fikr",
+      "titleUrdu": "آئینۂ فکر ",
+      "creator": "Naseer Ansari Barabankvi",
+      "coverUrl": "https://adab.bizcorindia.com/assets/img/aina-e-fikr-cover.jpg",
+      "category": "Poetry",
+      "volumes": [
+        {
+          "url": "https://adab.bizcorindia.com/assets/pdf/aina-e-fikr.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790837508423",
+      "addedAt": "2026-10-01T06:51:48.423Z"
+    },
+    {
+      "title": "Mukammal Tareekh E Kashmir Voll 003 By Mohammad Ud Deen Fauq Urdu History Lahore 1911 Rifah E Aam Steam Press",
+      "titleUrdu": "مکمل تاریخِ کشمیر جلد 003 از محمد الدین فوق اردو ہسٹری لاہور 1911 رفاہِ عام سٹیم پریس",
+      "creator": "kashmirresearchinstitute; patron-library-collection",
+      "coverUrl": "https://archive.org/services/img/iqrk_mukammal-tareekh-e-kashmir-voll-003-by-mohammad-ud-deen-fauq-urdu-history-lahore",
+      "category": "History",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/iqrk_mukammal-tareekh-e-kashmir-voll-003-by-mohammad-ud-deen-fauq-urdu-history-lahore/Mukammal%20Tareekh-e-kashmir%20Voll-003%20by%20Mohammad-ud-Deen%20Fauq%20Urdu%20History%20Lahore%201911%20-%20Rifah-e-Aam%20Steam%20Press.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790838221963",
+      "addedAt": "2026-10-01T07:03:41.963Z"
+    },
+    {
+      "title": "Siyar-ul-Auliya (Urdu translation) History of Chishti silsila",
+      "titleUrdu": "سیر الاولیاء (اردو ترجمہ) چشتیہ سلسلہ کی تاریخ",
+      "creator": "booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/Siyar-ul-auliyaurduTranslationHistoryOfChishtiSilsila",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/Siyar-ul-auliyaurduTranslationHistoryOfChishtiSilsila/00360_SIYAR-UL-AULIA-ur.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790838461149",
+      "addedAt": "2026-10-01T07:07:41.149Z"
+    },
+    {
+      "title": "Tabeer ur Roya - Khwab ki tabeer - Urdu",
+      "titleUrdu": "تعبیر الرؤیا - خواب کی تعبیر - اردو",
+      "creator": "www.Momeen.blogspot.com",
+      "coverUrl": "https://archive.org/services/img/TabeerUrRoya-KhwabKiTabeer-Urdu-Www.momeen.blogspot.com",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/TabeerUrRoya-KhwabKiTabeer-Urdu-Www.momeen.blogspot.com/Tabeer-ur-ruaya-Www.momeen.blogspot.comnewEdition.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790848428980",
+      "addedAt": "2026-10-01T09:53:48.980Z"
+    },
+    {
+      "title": "Raah.e Haq Wa Aqaidul Ummah",
+      "titleUrdu": "راہِ حق و عقائدِ الامہ",
+      "creator": "ASHRAFI (MUREED E SAIYED MADANI MIYA (https://factofislamsms.wordpress.com)",
+      "coverUrl": "https://archive.org/services/img/Raah.eHaqWaAqaidulUmmahJild1ByFactofislamsms.wordpress.comOfShakilOn919825036786",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/Raah.eHaqWaAqaidulUmmahJild1ByFactofislamsms.wordpress.comOfShakilOn919825036786/Raah.e%20Haq%20wa%20Aqaidul%20Ummah_Jild-1%20By%20Factofislamsms.wordpress.com%20Of%20Shakil%20On%20%2B%2091%209825036786.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/Raah.eHaqWaAqaidulUmmahJild1ByFactofislamsms.wordpress.comOfShakilOn919825036786/Raah.e%20Haq%20wa%20Aqaidul%20Ummah_Jild-2%20By%20Factofislamsms.wordpress.com%20Of%20Shakil%20On%20%2B%2091%209825036786.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790849036810",
+      "addedAt": "2026-10-01T10:03:56.810Z"
+    },
+    {
+      "title": "Fatawa 'Alamgiri - Urdu/ Hindi",
+      "titleUrdu": "فتاویٰ عالمگیری - اردو / ہندی",
+      "creator": "Bilal Khan Afridi @ Archive.org",
+      "coverUrl": "https://archive.org/services/img/fatawa-alamgiri-vol-1-10",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume1-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume2-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume3-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume4-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume5-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume6-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume7-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume8-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume9-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fatawa-alamgiri-vol-1-10/FatawaAalamgeeri-volume10-Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790856130482",
+      "addedAt": "2026-10-01T12:02:10.483Z"
+    },
+    {
+      "title": "Tafsir al-Jalalayn | Classical Quran Commentary",
+      "titleUrdu": "تفسیر الجلالین | کلاسیکی تفسیرِ قرآن",
+      "creator": "Public Domain Mark 1.0",
+      "coverUrl": "https://archive.org/services/img/tafsir-al-jalalayn-arabic",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/tafsir-al-jalalayn-arabic/Tafsir%20al-Jalalayn.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790857376857",
+      "addedAt": "2026-10-01T12:22:56.857Z"
+    },
+    {
+      "title": "Masnavi Maulana Rumi",
+      "titleUrdu": "مثنوی مولانا روم",
+      "creator": "booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/masnavi-urdu-3",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/MasnaviUrdu/Masnavi-Urdu-1.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/MasnaviUrdu/Masnavi-Urdu-2.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/MasnaviUrdu/Masnavi-Urdu-3.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790860350081",
+      "addedAt": "2026-10-01T13:12:30.081Z"
+    },
+    {
+      "title": "Tareekh Ibn Khaldun - Urdu",
+      "titleUrdu": "تاریخ ابن خلدون - اردو",
+      "creator": " Attribution-NonCommercial-NoDerivs 4.0 International",
+      "coverUrl": "https://archive.org/services/img/tareekhibnkhaldoonvolume56",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/tareekhibnkhaldoonvolume56/Tareekh%20Ibn%20Khaldoon%20-%20Volume%201%20%28Muqaddima%29.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/tareekhibnkhaldoonvolume56/Tareekh%20Ibn%20Khaldoon%20-%20Volume%201.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/tareekhibnkhaldoonvolume56/Tareekh%20Ibn%20Khaldoon%20-%20Volume%202.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/tareekhibnkhaldoonvolume56/Tareekh%20Ibn%20Khaldoon%20-%20Volume%203-4.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/tareekhibnkhaldoonvolume56/Tareekh%20Ibn%20Khaldoon%20-%20Volume%205-6.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/tareekhibnkhaldoonvolume56/Tareekh%20Ibn%20Khaldoon%20-%20Volume%207-8.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/tareekhibnkhaldoonvolume56/Tareekh%20Ibn%20Khaldoon%20-%20Volume%209-10.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/tareekhibnkhaldoonvolume56/Tareekh%20Ibn%20Khaldoon%20-%20Volume%2011-12.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/tareekhibnkhaldoonvolume56/Tareekh%20Ibn%20Khaldoon%20-%20Volume%2012.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790918626878",
+      "addedAt": "2026-10-02T05:23:46.878Z"
+    },
+    {
+      "title": "Imam Hussain aur Waqiah-e-Karbala",
+      "titleUrdu": "امام حسین اور واقعہ کربلا",
+      "creator": "admin of booklethouse",
+      "coverUrl": "https://archive.org/services/img/ehtishamsaid16_gmail_201705",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/ehtishamsaid16_gmail_201705/%D8%A7%D9%85%D8%A7%D9%85%20%D8%AD%D8%B3%DB%8C%D9%86%20%D8%A7%D9%88%D8%B1%20%D9%88%D8%A7%D9%82%D8%B9%DB%81%20%DA%A9%D8%B1%D8%A8%D9%84%D8%A7.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790919128736",
+      "addedAt": "2026-10-02T05:32:08.736Z"
+    },
+    {
+      "title": "Khair-ul-Quroon ki Darsgahen aur Un ka Nizam-e-Taleem-o-Tarbiyat",
+      "titleUrdu": "خیرالقرون کی درسگاہیں اور اُن کا نظام تعلیم و تربیت",
+      "creator": " Attribution-NonCommercial-NoDerivs 4.0 International",
+      "coverUrl": "https://archive.org/services/img/20220914_20220914_0636",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/20220914_20220914_0636/%D8%AE%DB%8C%D8%B1%D8%A7%D9%84%D9%82%D8%B1%D9%88%D9%86%20%DA%A9%DB%8C%20%D8%AF%D8%B1%D8%B3%DA%AF%D8%A7%DB%81%DB%8C%DA%BA%20%D8%A7%D9%88%D8%B1%20%D8%A7%D9%8F%D9%86%20%DA%A9%D8%A7%20%D9%86%D8%B8%D8%A7%D9%85%20%D8%AA%D8%B9%D9%84%DB%8C%D9%85%20%D9%88%20%D8%AA%D8%B1%D8%A8%DB%8C%D8%AA.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790920186343",
+      "addedAt": "2026-10-02T05:49:46.343Z"
+    },
+    {
+      "title": "Ulama -e- Deoband Ka Tareekhi Pasemanzar By Shaykh Zulfiqar Ahmad Naqshbandi",
+      "titleUrdu": "علماء دیوبند کا تاریخی پس منظر - از شیخ ذوالفقار احمد نقشبندی",
+      "creator": "booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/Ulama-e-DeobandKaTareekhiPasemanzarByShaykhZulfiqarAhmadNaqshbandi",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/Ulama-e-DeobandKaTareekhiPasemanzarByShaykhZulfiqarAhmadNaqshbandi/Ulama-e-DeobandKaTareekhiPasemanzarByShaykhZulfiqarAhmadNaqshbandi.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790920509206",
+      "addedAt": "2026-10-02T05:55:09.206Z"
+    },
+    {
+      "title": "Firqa Ahl-e-Hadees Pak-o-Hind Ka Tehqeeqi Jaiza By Shaykh Muhammad Ilyas Ghumman",
+      "titleUrdu": "فرقہ اہل حدیث پاک و ہند کا تحقیقی جائزہ - از شیخ محمد الیاس گھمن",
+      "creator": " booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/FirqaAhl-e-hadeesPak-o-hindKaTehqeeqiJaizaByShaykhMuhammadIlyasGhumman",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/FirqaAhl-e-hadeesPak-o-hindKaTehqeeqiJaizaByShaykhMuhammadIlyasGhumman/FirqaAhl-e-hadeesPak-o-hindKaTehqeeqiJaizaByShaykhMuhammadIlyasGhumman.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790920749895",
+      "addedAt": "2026-10-02T05:59:09.895Z"
+    },
+    {
+      "title": "Fuqahai e Hind",
+      "titleUrdu": "فقہائے ہند",
+      "creator": " Attribution-NonCommercial-NoDerivs 4.0 International",
+      "coverUrl": "https://archive.org/services/img/fuqahai-hind-jadeed-audition-6",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/fuqahai-hind-jadeed-audition-6/Fuqahai-Hind%20%28Jadeed%20Audition%29-1.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fuqahai-hind-jadeed-audition-6/Fuqahai-Hind%20%28Jadeed%20Audition%29-2.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fuqahai-hind-jadeed-audition-6/Fuqahai-Hind%20%28Jadeed%20Audition%29-3.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fuqahai-hind-jadeed-audition-6/Fuqahai-Hind%20%28Jadeed%20Audition%29-4.PDF",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fuqahai-hind-jadeed-audition-6/Fuqahai-Hind%20%28Jadeed%20Audition%29-5.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/fuqahai-hind-jadeed-audition-6/Fuqahai-Hind%20%28Jadeed%20Audition%29-6.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790927927899",
+      "addedAt": "2026-10-02T07:58:47.899Z"
+    },
+    {
+      "title": "Anbiya-e-Kiram aur Un ki Qoumon ke Ahwal - Jild-1-3",
+      "titleUrdu": "انبیائے کرام اور ان کی قوموں کے احوال ـ جلد-1-2",
+      "creator": " Attribution-NonCommercial-NoDerivs 4.0 International",
+      "coverUrl": "https://archive.org/services/img/2_20220417_20220417_0643",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/1_20220417_20220417_0643/%D8%A7%D9%86%D8%A8%DB%8C%D8%A7%D8%A6%DB%92%20%DA%A9%D8%B1%D8%A7%D9%85%20%D8%A7%D9%88%D8%B1%20%D8%A7%D9%86%20%DA%A9%DB%8C%20%D9%82%D9%88%D9%85%D9%88%DA%BA%20%DA%A9%DB%92%20%D8%A7%D8%AD%D9%88%D8%A7%D9%84%20%D9%80%20%D8%AC%D9%84%D8%AF%201.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/2_20220417_20220417_0643/%D8%A7%D9%86%D8%A8%DB%8C%D8%A7%D8%A6%DB%92%20%DA%A9%D8%B1%D8%A7%D9%85%20%D8%A7%D9%88%D8%B1%20%D8%A7%D9%86%20%DA%A9%DB%8C%20%D9%82%D9%88%D9%85%D9%88%DA%BA%20%DA%A9%DB%92%20%D8%A7%D8%AD%D9%88%D8%A7%D9%84%20%D9%80%20%D8%AC%D9%84%D8%AF%202.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        },
+        {
+          "url": "https://archive.org/download/3_20220417_20220417_0642/%D8%A7%D9%86%D8%A8%DB%8C%D8%A7%D8%A6%DB%92%20%DA%A9%D8%B1%D8%A7%D9%85%20%D8%A7%D9%88%D8%B1%20%D8%A7%D9%86%20%DA%A9%DB%8C%20%D9%82%D9%88%D9%85%D9%88%DA%BA%20%DA%A9%DB%92%20%D8%A7%D8%AD%D9%88%D8%A7%D9%84%20%D9%80%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790928199098",
+      "addedAt": "2026-10-02T08:03:19.098Z"
+    },
+    {
+      "title": "Funn e Usool e Fiqh Ki Tareekh By Shaykh Dr Farooq Hasan",
+      "titleUrdu": "فن اصول فقہ کی تاریخ - از شیخ ڈاکٹر فاروق حسن",
+      "creator": " booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/FunnEUsoolEFiqhKiTareekhByShaykhDrFarooqHasan_553",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/FunnEUsoolEFiqhKiTareekhByShaykhDrFarooqHasan/FunnEUsoolEFiqhKiTareekhByShaykhFarooqHasan.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790928547733",
+      "addedAt": "2026-10-02T08:09:07.733Z"
+    },
+    {
+      "title": "Yahood o Nasaara Tareekh Ke Aainay Mein By Shaykh Ibn al Qayyim al Jawziyah (r.a)",
+      "titleUrdu": "یہود و نصاریٰ تاریخ کے آئینے میں - از شیخ ابن القیم الجوزیہ (رحمۃ اللہ علیہ)",
+      "creator": " booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/YahoodONasaaraTareekhKeAainayMeinByShaykhIbnAlQayyimAlJawziyah",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/YahoodONasaaraTareekhKeAainayMeinByShaykhIbnAlQayyimAlJawziyah/YahoodONasaaraTareekhKeAainayMeinByShaykhIbnAlQayyimAlJawziyahr.a.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790928668053",
+      "addedAt": "2026-10-02T08:11:08.053Z"
+    },
+    {
+      "title": "Ala Hazrat Ahmad Raza Khan - Hayat Aur Karnamay By Shaykh Muhammad Abdur Rahman Mazahiri",
+      "titleUrdu": "اعلیٰ حضرت احمد رضا خان - حیات اور کارنامے - از شیخ محمد عبدالرحمٰن مظاہری",
+      "creator": "ISLAMIC-BOOKS-LIBRARY, BARELVI",
+      "coverUrl": "https://archive.org/services/img/AlaHazratAhmadRazaKhan-HayatAurKarnamayByShaykhMuhammadAbdurRahman",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/AlaHazratAhmadRazaKhan-HayatAurKarnamayByShaykhMuhammadAbdurRahman/AlaHazratAhmadRazaKhan-HayatAurKarnamayByShaykhMuhammadAbdurRahmanMazahiri.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790928843378",
+      "addedAt": "2026-10-02T08:14:03.378Z"
+    },
+    {
+      "title": "Naamwar Musalman Science-dan",
+      "titleUrdu": "نامور مسلمان سائنسدان",
+      "creator": " booksbylanguage_urdu; booksbylanguage",
+      "coverUrl": "https://archive.org/services/img/20250822_20250822_1155",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/20250822_20250822_1155/%D9%86%D8%A7%D9%85%D9%88%D8%B1%20%D9%85%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%B3%D8%A7%D8%A6%D9%86%D8%B3%D8%AF%D8%A7%D9%86.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790928943973",
+      "addedAt": "2026-10-02T08:15:43.973Z"
+    },
+    {
+      "title": "Atlas-e-Khat – Tahqeeq dar Khutoot-e-Islami",
+      "titleUrdu": "اطلس خط – تحقیق در خطوط اسلامی",
+      "creator": "Umair Mirza",
+      "coverUrl": "https://archive.org/services/img/20260311_20260311_0913",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/20260311_20260311_0913/%D8%AA%D8%AD%D9%82%DB%8C%D9%82%20%D8%AF%D8%B1%20%D8%AE%D8%B7%D9%88%D8%B7%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790929103430",
+      "addedAt": "2026-10-02T08:18:23.430Z"
+    },
+    {
+      "title": "Rasaail Min al-Quran - Urdu Adham Sharqawi",
+      "titleUrdu": "رسائل من القرآن -اردو ادھم شرقاوی",
+      "creator": "opensource",
+      "coverUrl": "https://archive.org/services/img/rasail-minal-quran-urdu",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/rasail-minal-quran-urdu/%D8%B1%D8%B3%D8%A7%D9%8A%D9%94%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%93%D9%86%20%20Rasail%20Minal%20Quran%20Urdu.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790942262331",
+      "addedAt": "2026-10-02T11:57:42.331Z"
+    },
+    {
+      "title": "Rasail min Sahaba",
+      "titleUrdu": "رسائل من الصحابہ",
+      "creator": "adham sharqawi",
+      "coverUrl": "https://archive.org/services/img/20250707_20250707_2346",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/20250707_20250707_2346/%D8%B1%D8%B3%D8%A7%D9%8A%D9%94%D9%84%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D8%A8%D8%A9.pdf",
+          "detail": "",
+          "license": "NOT FOUND"
+        }
+      ],
+      "id": "1790945545599",
+      "addedAt": "2026-10-02T12:52:25.599Z"
+    }
+  ]
+}
