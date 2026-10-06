@@ -799,7 +799,8 @@
           "isPdf": true,
           "fileSizeMB": 4.2,
           "license": "Official publication of the Government of India (Legislative Department, Ministry of Law and Justice), legislative.gov.in",
-          "label": "English"
+          "label": "English",
+          "coverUrl": "https://raw.githubusercontent.com/nafybbk/deen-assets/main/library/constitution/covers/constitution-english.jpg"
         },
         {
           "url": "https://legislative.gov.in/constitution-of-india",
@@ -808,7 +809,8 @@
           "isPdf": true,
           "fileSizeMB": 23.5,
           "license": "Official publication of the Government of India (Legislative Department, Ministry of Law and Justice), legislative.gov.in",
-          "label": "Hindi + English"
+          "label": "Hindi + English",
+          "coverUrl": "https://raw.githubusercontent.com/nafybbk/deen-assets/main/library/constitution/covers/constitution-hindi-english.jpg"
         },
         {
           "url": "https://legislative.gov.in/constitution-of-india",
@@ -817,9 +819,11 @@
           "isPdf": true,
           "fileSizeMB": 6.5,
           "license": "Official publication of the Government of India (Legislative Department, Ministry of Law and Justice), legislative.gov.in",
-          "label": "Urdu (amended up to 28 Sep 2023)"
+          "label": "Urdu (amended up to 28 Sep 2023)",
+          "coverUrl": "https://raw.githubusercontent.com/nafybbk/deen-assets/main/library/constitution/covers/constitution-urdu.jpg"
         }
-      ]
+      ],
+      "coverUrl": "https://raw.githubusercontent.com/nafybbk/deen-assets/main/library/constitution/covers/constitution-english.jpg"
     }
   ]
 }
