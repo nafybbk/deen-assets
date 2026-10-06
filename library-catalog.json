@@ -784,6 +784,42 @@
       ],
       "id": "1790945545599",
       "addedAt": "2026-10-02T12:52:25.599Z"
+    },
+    {
+      "title": "The Constitution of India",
+      "titleUrdu": "آئین ہند",
+      "creator": "Government of India, Ministry of Law and Justice",
+      "id": "1791308982732",
+      "addedAt": "2026-10-06T17:49:42.732Z",
+      "volumes": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "pdfUrl": "https://raw.githubusercontent.com/nafybbk/deen-assets/main/library/constitution/constitution-english.pdf",
+          "detail": "4.2 MB",
+          "isPdf": true,
+          "fileSizeMB": 4.2,
+          "license": "Official publication of the Government of India (Legislative Department, Ministry of Law and Justice), legislative.gov.in",
+          "label": "English"
+        },
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "pdfUrl": "https://raw.githubusercontent.com/nafybbk/deen-assets/main/library/constitution/constitution-hindi-english.pdf",
+          "detail": "23.5 MB",
+          "isPdf": true,
+          "fileSizeMB": 23.5,
+          "license": "Official publication of the Government of India (Legislative Department, Ministry of Law and Justice), legislative.gov.in",
+          "label": "Hindi + English"
+        },
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "pdfUrl": "https://raw.githubusercontent.com/nafybbk/deen-assets/main/library/constitution/constitution-urdu.pdf",
+          "detail": "6.5 MB",
+          "isPdf": true,
+          "fileSizeMB": 6.5,
+          "license": "Official publication of the Government of India (Legislative Department, Ministry of Law and Justice), legislative.gov.in",
+          "label": "Urdu (amended up to 28 Sep 2023)"
+        }
+      ]
     }
   ]
 }
