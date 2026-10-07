@@ -826,23 +826,6 @@
       "coverUrl": "https://raw.githubusercontent.com/nafybbk/deen-assets/main/library/constitution/covers/constitution-english.jpg"
     },
     {
-      "title": "Islamic Urdu Book",
-      "titleUrdu": "ایک ہزار اسلامی واقعات - اسلامی اردو کتاب",
-      "creator": "",
-      "coverUrl": "",
-      "category": "Islamic",
-      "volumes": [
-        {
-          "url": "https://archive.org/download/aniub/1000Waqiat.pdf",
-          "detail": "",
-          "coverUrl": "https://ia801401.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/aniub/1000Waqiat_jp2.zip&file=1000Waqiat_jp2/1000Waqiat_0000.jp2&id=aniub&scale=4&rotate=0",
-          "label": "1000 Waqiat"
-        }
-      ],
-      "id": "1791355751449",
-      "addedAt": "2026-10-07T06:49:11.449Z"
-    },
-    {
       "title": "AMR BIL MAROOF WA NAHI ANIL MUNKAR",
       "titleUrdu": "امر بالمعروف و نہی عن المنکر",
       "creator": "",
