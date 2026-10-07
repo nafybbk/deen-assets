@@ -840,6 +840,25 @@
       ],
       "id": "1791356486905",
       "addedAt": "2026-10-07T07:01:26.905Z"
+    },
+    {
+      "title": "  Islamic Urdu Book",
+      "titleUrdu": "ایک ہزار اسلامی واقعات - اسلامی اردو کتاب",
+      "creator": "aniub",
+      "coverUrl": "https://ia801401.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/aniub/1000Waqiat_jp2.zip&file=1000Waqiat_jp2/1000Waqiat_0000.jp2&id=aniub&scale=4&rotate=0",
+      "category": "Islamic",
+      "volumes": [
+        {
+          "url": "https://archive.org/download/aniub/1000Waqiat.pdf",
+          "detail": "",
+          "duplicate": {
+            "title": "Islamic Urdu Book",
+            "volNum": 1
+          }
+        }
+      ],
+      "id": "1791356619804",
+      "addedAt": "2026-10-07T07:03:39.804Z"
     }
   ]
 }
